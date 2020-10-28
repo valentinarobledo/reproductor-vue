@@ -1,0 +1,62 @@
+[
+    {
+        "id":"1",
+        "name":"Find the key",
+        "img":"../assets/img/img1.jpg",
+        "audio":"../assets/audio/audio1.mp3"
+    },
+    {
+        "id":"2",
+        "name":"Good News",
+        "img":"../assets/img/img2.jpg",
+        "audio":"../assets/audio/audio2.mp3"
+    },
+    {
+        "id":"3",
+        "name":"Ligth of hope",
+        "img":"../assets/img/img3.jpg",
+        "audio":"../assets/audio/audio3.mp3"
+    },
+    {
+        "id":"4",
+        "name":"Season of joy",
+        "img":"../assets/img/img4.jpg",
+        "audio":"../assets/audio/audio4.mp3"
+    },
+    {
+        "id":"5",
+        "name":"Skater",
+        "img":"../assets/img/img5.jpg",
+        "audio":"../assets/audio/audio5.mp3"
+    },
+    {
+        "id":"6",
+        "name":"Spring flower",
+        "img":"../assets/img/img6.jpg",
+        "audio":"../assets/audio/audio6.mp3"
+    },
+    {
+        "id":"7",
+        "name":"The first light",
+        "img":"../assets/img/img7.jpg",
+        "audio":"../assets/audio/audio7.mp3"
+    },
+    {
+        "id":"8",
+        "name":"The quiet solitude",
+        "img":"../assets/img/img8.jpg",
+        "audio":"../assets/audio/audio8.mp3"
+    },
+    {
+        "id":"9",
+        "name":"Travel dreams",
+        "img":"../assets/img/img9.jpg",
+        "audio":"../assets/audio/audio9.mp3"
+    },
+    {
+        "id":"10",
+        "name":"Winter lover",
+        "img":"../assets/img/img10.jpg",
+        "audio":"../assets/audio/audio10.mp3"
+    }
+]
